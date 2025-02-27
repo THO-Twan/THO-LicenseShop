@@ -7,6 +7,8 @@ add more licenses. (by default you can just buy a weapon license and hunting lic
 You can config the database user_license name and the inventory name of your license in the server.lua file.
 Again I used chatGPT i know nothing about coding or scripts i was just too cheap to buy a script and too dumb to figure out others so I made my own, with ai...
 
+Might just be me but as of now until I maybe figure it out.. I need to restart this script after the server starts to get it to work..
+
 ChatGPT wrote the rest..
 
 Features:
