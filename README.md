@@ -1,10 +1,13 @@
 THO-LicenseShop Script for FiveM (ESX)
 
-Overview
-The THO-LicenseShop script allows players to purchase licenses (e.g., Weapon and Hunting licenses) from a ped in the game.
-This script integrates with the ESX Framework and leverages the esx_license resource to manage licenses. 
-Players can purchase a license only if they don't already own it, and the cost of the license will be deducted from their in-game money.
-They will alse recieve the license as an item.
+This is the first script I have ever made. 
+I used chatgpt to do it and it actually works..it adds a license to the player in the database, and gives an item to the inventory.
+You can do whatever you want with this script, you can use any ped, move them where ever you want, 
+add more licenses. (by default you can just buy a weapon license and hunting license) 
+You can config the database user_license name and the inventory name of your license in the server.lua file.
+Again I used chatGPT i know nothing about coding or scripts i was just too cheap to buy a script and too dumb to figure out others so I made my own, with ai...
+
+ChatGPT wrote the rest..
 
 Features:
 Purchase Weapon License and Hunting License from a ped.
